@@ -26,7 +26,7 @@ function App() {
           }}
         />
         <div className="relative z-10 text-center text-white px-4">
-          <img src="public/images/agishatech-logo.png" alt="AgishaTech Logo" className="h-48 md:h-64 w-auto mx-auto mb-8" />
+          <img src="/agishatech/images/agishatech-logo.png" alt="AgishaTech Logo" className="h-48 md:h-64 w-auto mx-auto mb-8" />
           <p className="text-xl md:text-2xl mb-8 max-w-2xl mx-auto">
             Votre partenaire technologique pour l'innovation et la transformation digitale
           </p>
