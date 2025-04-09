@@ -6,5 +6,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: '/agishatech/', // Ajout de la base pour GitHub Pages
+  base: '/', // Modification pour Netlify
 });
